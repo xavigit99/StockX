@@ -34,7 +34,7 @@ def obter_tickers_europa():
         "NOVN.SW", "NESN.SW", "ROG.SW", "ZURN.SW", "CSGN.SW", "SGSN.SW", "UBSG.SW", "ADEN.SW", "SREN.SW", "LONN.SW",
         "IBE.MC", "ITX.MC", "BBVA.MC", "SAN.MC", "REP.MC", "ACS.MC", "FER.MC", "TEF.MC", "GRF.MC", "MAP.MC",
         "AZN.L", "HSBA.L", "BP.L", "GSK.L", "RIO.L", "ULVR.L", "VOD.L", "BATS.L", "LSEG.L", "DGE.L",
-        "NOVO-B.CO"
+        "NVO"
     ]
 
 def aplicar_criterios_tecnicos(df):
