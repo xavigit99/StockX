@@ -6,7 +6,7 @@ from ta.trend import MACD
 import time
 
 st.set_page_config(page_title="Estudo de Mercado", layout="wide")
-st.title("📈 Estudo de Mercado - Análise Técnica e Fundamental")
+st.title("📈 Estudo de Mercado Live - Análise Técnica e Fundamental")
 
 LIMITES = {
     "RSI": 55,
